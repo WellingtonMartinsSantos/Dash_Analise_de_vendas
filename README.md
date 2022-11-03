@@ -13,4 +13,8 @@ Outros pontos positivos implícito:
 - Aplicar melhorias continuas como PDCA.
 
 
-Para maiores informações acesse: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFlYTg0OTYtZjAxMy00ZDJjLThmYTEtNDZiZWM2ZGQyNmMzIiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9)
+Para maiores informações acesse:
+
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFlYTg0OTYtZjAxMy00ZDJjLThmYTEtNDZiZWM2ZGQyNmMzIiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9)
+
+[Linkedin](https://www.linkedin.com/in/wellington-martins-5a19638b/)
