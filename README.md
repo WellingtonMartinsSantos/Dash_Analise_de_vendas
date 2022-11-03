@@ -1,6 +1,6 @@
 # Dash Análise de vendas
 
-![Dash_Análise_de_vendas]()
+![Dash_Análise_de_vendas](Dash_análise_vendas.png)
 
 
 Análise de vendas de uma rede de supermercado ao qual dispunha de três filais A, B e C. Como origem dos dados no Kaggle foi feito as etapas do processo de ETL (extração, tratamento e carregamento dos dados). Pode-se verificar qual foi a filial que obteve maior satisfação do cliente, maior faturamento e saber o quanto cada cliente gasta em média com compras (ticket médio). Além de, poder precaver em qual período tal produto seria mais vendido e ser assertivo com o público alvo no quesito gênero.
