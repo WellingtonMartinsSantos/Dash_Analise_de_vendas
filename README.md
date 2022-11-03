@@ -9,7 +9,7 @@ Análise de vendas de uma rede de supermercado ao qual dispunha de três filais 
 Outros pontos positivos implícito:
 
 - Benchmark entre as filais para retirar melhores práticas de gestão de cada uma.
-- Acompanhar Rollout de alguma implementação na filiar e assim verificar o seu impacto.
+- Acompanhar Rollout de alguma implementação na filial e assim verificar o seu impacto.
 - Aplicar melhorias continuas como PDCA.
 
 
