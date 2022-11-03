@@ -1,4 +1,4 @@
-# Dash Análise de vendas
+# Dashboard Análise de vendas
 
 ![Dash_Análise_de_vendas](Dash_análise_vendas.png)
 
